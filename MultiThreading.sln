@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MultiThreading", "MultiThreading\MultiThreading.vbproj", "{C7F3E4D7-C657-4F74-8F13-214983985C05}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Testing", "Testing\Testing.vbproj", "{A3788358-A99C-4D61-A28D-046121BCAD3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7F3E4D7-C657-4F74-8F13-214983985C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F3E4D7-C657-4F74-8F13-214983985C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F3E4D7-C657-4F74-8F13-214983985C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F3E4D7-C657-4F74-8F13-214983985C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3788358-A99C-4D61-A28D-046121BCAD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3788358-A99C-4D61-A28D-046121BCAD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3788358-A99C-4D61-A28D-046121BCAD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3788358-A99C-4D61-A28D-046121BCAD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
