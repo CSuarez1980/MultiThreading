@@ -1,7 +1,6 @@
 ﻿Public Enum EventType
     ReportProgress = 1
     WorkCompleted = 2
-    test = 3
 End Enum
 
 Public Class WorkerHandler
